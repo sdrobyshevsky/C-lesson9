@@ -1,0 +1,14 @@
+H:\Downloads\GB\GB С#\Task11\bin\Debug\net8.0\Task11.exe
+H:\Downloads\GB\GB С#\Task11\bin\Debug\net8.0\Task11.deps.json
+H:\Downloads\GB\GB С#\Task11\bin\Debug\net8.0\Task11.runtimeconfig.json
+H:\Downloads\GB\GB С#\Task11\bin\Debug\net8.0\Task11.dll
+H:\Downloads\GB\GB С#\Task11\bin\Debug\net8.0\Task11.pdb
+H:\Downloads\GB\GB С#\Task11\obj\Debug\net8.0\Task11.GeneratedMSBuildEditorConfig.editorconfig
+H:\Downloads\GB\GB С#\Task11\obj\Debug\net8.0\Task11.AssemblyInfoInputs.cache
+H:\Downloads\GB\GB С#\Task11\obj\Debug\net8.0\Task11.AssemblyInfo.cs
+H:\Downloads\GB\GB С#\Task11\obj\Debug\net8.0\Task11.csproj.CoreCompileInputs.cache
+H:\Downloads\GB\GB С#\Task11\obj\Debug\net8.0\Task11.dll
+H:\Downloads\GB\GB С#\Task11\obj\Debug\net8.0\refint\Task11.dll
+H:\Downloads\GB\GB С#\Task11\obj\Debug\net8.0\Task11.pdb
+H:\Downloads\GB\GB С#\Task11\obj\Debug\net8.0\Task11.genruntimeconfig.cache
+H:\Downloads\GB\GB С#\Task11\obj\Debug\net8.0\ref\Task11.dll
